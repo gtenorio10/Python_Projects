@@ -1,2 +1,2 @@
 # Python_Projects
-Practicing Python for many projects
+Different small projects practicing my Python
